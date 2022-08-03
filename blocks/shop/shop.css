@@ -1,0 +1,27 @@
+.shop {
+  margin: 0;
+  padding: 0;
+  padding-top: 52px;
+  display: grid;
+  justify-content: center;
+  grid-auto-flow: column dense; 
+  grid-template-columns: 580px 580px; 
+  grid-template-rows: 1fr 580px;
+  gap: 0px 20px; 
+  grid-template-areas: 
+      "text text"
+      "boards revs"; 
+}
+
+@media only screen and (max-width: 1199.98px) {
+  .shop {
+    grid-template-columns: 460px 460px; 
+    grid-template-rows: 1fr 460px;
+  }
+}
+
+/* @media only screen and (max-width: 991.98px) {
+    .shop {
+    
+    }
+  } */

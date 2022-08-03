@@ -1,0 +1,12 @@
+.header-nav__buttons_box {
+  margin: 0;
+  padding: 0;
+  height: 18px;
+  width: 18px;
+  background-image: url('../../../../img/box.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: black;
+  box-sizing: border-box;
+  cursor: pointer;
+}

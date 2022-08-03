@@ -1,0 +1,18 @@
+.boosted-rev-text_block__button {
+  margin: 0;
+  margin-top: 18px;
+  padding: 5px 16px;
+  background: #FF4A32;
+  color: white;
+  border-radius: 35px;
+  user-select: none;
+  border: none;
+  cursor: pointer;
+  outline-style: none;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 150%;
+  text-align: center;
+}

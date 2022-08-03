@@ -1,0 +1,12 @@
+.header-nav__buttons_profile {
+  margin: 0;
+  margin-right: 11px;
+  padding: 0;
+  height: 18px;
+  width: 18px;
+  background-image: url('../../../../img/profile.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  cursor: pointer;
+}

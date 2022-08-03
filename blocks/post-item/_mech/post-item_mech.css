@@ -1,0 +1,8 @@
+.post-item_mech {
+  padding: 0;
+  width: 150px;
+  height: 41px;
+  background-image: url('../../../img/mech.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}

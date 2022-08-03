@@ -1,0 +1,13 @@
+.perfomance__subtitle {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 125%;
+  text-align: center;
+  color: #000000;
+  letter-spacing: 1px;
+  order: 0;
+}

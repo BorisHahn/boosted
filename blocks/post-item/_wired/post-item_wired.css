@@ -1,0 +1,8 @@
+.post-item_wired {
+  padding: 0;
+  width: 158px;
+  height: 33px;
+  background-image: url('../../../img/wired.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}

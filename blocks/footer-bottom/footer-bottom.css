@@ -1,0 +1,8 @@
+.footer-bottom {
+  width: 100%;
+  margin: 19px 0 27px 0;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: #000000;
+}

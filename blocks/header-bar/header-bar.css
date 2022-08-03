@@ -1,0 +1,18 @@
+.header-bar {
+  margin: 0;
+  padding: 7px 0;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 125%;
+  text-align: center;
+  letter-spacing: 2px;
+  color: #FBFBFB;
+}

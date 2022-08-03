@@ -1,0 +1,11 @@
+.footer-top__logo {
+  padding: 0;
+  margin: 0;
+  margin-right: 140px;
+}
+
+@media only screen and (max-width: 1199.98px) {
+  .footer-top__logo {
+    margin-right: 20px;
+  }
+}

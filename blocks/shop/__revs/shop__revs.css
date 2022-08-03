@@ -1,0 +1,12 @@
+.shop__revs {
+  grid-area: revs;
+  background-image: url('../../../img/revs.png');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+

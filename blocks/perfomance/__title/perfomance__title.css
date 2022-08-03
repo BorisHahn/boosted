@@ -1,0 +1,13 @@
+.perfomance__title {
+  margin: 0;
+  padding: 0;
+  padding-top: 11px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 112%;
+  text-align: center;
+  color: #000000;
+  order: 1;
+}

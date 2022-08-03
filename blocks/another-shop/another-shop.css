@@ -1,0 +1,27 @@
+.another-shop {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  padding-top: 45px;
+  display: grid;
+  justify-content: space-between;
+  grid-auto-flow: row dense; 
+  grid-template-columns: 480px 480px 480px; 
+  grid-template-rows: 480px;
+}
+
+@media only screen and (max-width: 1439.98px) {
+  .another-shop {
+      justify-content: center;
+      grid-template-columns: 380px 380px 380px; 
+      grid-template-rows: 380px;
+      gap: 20px;
+  }
+}
+
+@media only screen and (max-width: 1199.98px) {
+  .another-shop {
+      grid-template-columns: 300px 300px 300px;
+      grid-template-rows: 300px; 
+  }
+}

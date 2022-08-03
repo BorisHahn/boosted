@@ -1,0 +1,8 @@
+.post-item_tech {
+  padding: 0;
+  width: 206px;
+  height: 48px;
+  background-image: url('../../../img/tech.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}

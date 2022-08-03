@@ -1,0 +1,11 @@
+.shop__boards {
+  grid-area: boards;
+  background-image: url('../../../img/boards.png');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

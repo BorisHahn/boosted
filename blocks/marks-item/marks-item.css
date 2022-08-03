@@ -1,0 +1,9 @@
+.marks-item {
+    width: 330px;
+    margin: 0;
+    margin-bottom: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}

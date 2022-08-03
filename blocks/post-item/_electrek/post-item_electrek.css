@@ -1,0 +1,8 @@
+.post-item_electrek {
+  padding: 0;
+  width: 150px;
+  height: 31px;
+  background-image: url('../../../img/electrek.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}

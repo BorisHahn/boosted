@@ -1,0 +1,19 @@
+.boosted-rev {
+  margin: 0;
+  padding: 0;
+  padding-top: 44px;
+  display: grid;
+  justify-content: center;
+  grid-auto-flow: row dense; 
+  grid-template-columns: 380px 380px 380px; 
+  grid-template-rows: 380px;
+  gap: 20px;
+}
+
+
+@media only screen and (max-width: 1199.98px) {
+    .boosted-rev {
+      grid-template-columns: 300px 300px 300px;
+      grid-template-rows: 300px; 
+    }
+  }
